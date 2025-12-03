@@ -43,6 +43,8 @@ body{
     border-radius: 10px;
     padding-top: none;
     box-shadow: 5px 10px 3px #9c7135;
+    font-size: 18px;
+    
  }
     .parent:hover{
     box-shadow: 5px 10px 10px 2px #6d6c6c;
@@ -67,8 +69,17 @@ body{
   display:flex; 
  }
 
+ .paregraf{
+    text-align: center;
+    text-decoration: none;
+    color:#03203A;
+    font-size: 20px;
+  
+ }
+
     .text3{
-    color: white;
+    color:#03203A;
+    text-decoration: none;
  }
 
  .btn{
@@ -85,6 +96,7 @@ body{
     border: none;
     transition: 0.3s ease;
     cursor: pointer;
+    
 }
 
  .btn:hover {
