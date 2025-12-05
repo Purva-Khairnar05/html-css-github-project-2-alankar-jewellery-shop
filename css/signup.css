@@ -8,6 +8,7 @@ body {
     background-color: #fffbe6;
     font-family: 'Times New Roman', Times, serif;
     padding-top: 100px;
+    
 }
 
 .logo {
@@ -81,9 +82,9 @@ body {
 }
 
 
-.responsive-img {
+.responsive-img{
     width: 650px;
-    height: auto;
+    height: 700px;
 }
 
 
