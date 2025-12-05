@@ -192,6 +192,10 @@
     background-color: #192d1d;
     box-shadow: rgba(41, 72, 59, 0.4);
  }
+.send-btn {
+    padding: 6px 14px;   
+    font-size: 15px;
+}
 
         .info-box {
             margin-top: 40px;
