@@ -270,12 +270,12 @@ footer {
     display: flex;
     align-items: center;
     gap: 8px;
-    white-space: nowrap;   /* text next line me nahi jayega */
+    white-space: nowrap;   
     margin: 6px 0;
 }
 
 .footer-contact i {
-    font-style: normal;     /* icon sahi dikhe */
+    font-style: normal;     
 }
 
 
