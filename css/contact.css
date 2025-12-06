@@ -266,15 +266,18 @@ footer {
     color: white;
     text-decoration: none;
 }
-.footer-contact {
+.footer-contact p {
     display: flex;
-    flex-direction: column;
+    align-items: center;
     gap: 8px;
+    white-space: nowrap;   /* text next line me nahi jayega */
+    margin: 6px 0;
 }
 
-.footer-contact p {
-    white-space: nowrap;
+.footer-contact i {
+    font-style: normal;     /* icon sahi dikhe */
 }
+
 
 .footer-contact a:hover {
     color:darkorange;
